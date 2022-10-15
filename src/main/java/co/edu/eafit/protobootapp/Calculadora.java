@@ -3,7 +3,7 @@ package co.edu.eafit.protobootapp;
 public class Calculadora {
 
     public Double cuadrado(Double numero) {
-        return numero+2 / numero;
+        return numero+3 / numero;
     }
     
     public Double cubo(Double numero) {
